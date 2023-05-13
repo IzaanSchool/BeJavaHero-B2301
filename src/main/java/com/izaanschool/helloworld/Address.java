@@ -8,20 +8,9 @@ public class Address {
     public static void main(String[] args) {
         // Print Address
         System.out.println("Hello From Address Class!");
-        System.out.println("Name: " +  "");
-        System.out.println("Zip: " +  "");
-        System.out.println("City: " +  "");
-
-    }
-}public class Address {
-
-    // Declare Main Method
-    public static void main(String[] args) {
-        // Print Address
-        System.out.println("Hello From Address Class!");
-        System.out.println("Name: " +  "");
-        System.out.println("Zip: " +  "");
-        System.out.println("City: " +  "");
+        System.out.println("Name: " + "");
+        System.out.println("Zip: " + "");
+        System.out.println("City: " + "");
 
     }
 }

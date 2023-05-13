@@ -3,7 +3,7 @@ package com.izaanschool.ifelse;
 
 
 // Declare the Class Name: Book
-public class Book {
+//public class Book {
     // Declare Main Method
     
         

@@ -5,8 +5,8 @@ package com.izaanschool.helloworld;// Appointment - A class representing an appo
     // Declare Main Method
    
         // Print
-        System.out.println("Hello From .... Class!");
-        System.out.println("  :" + "Print Your Message");
+//        System.out.println("Hello From .... Class!");
+//        System.out.println("  :" + "Print Your Message");
 
     
 

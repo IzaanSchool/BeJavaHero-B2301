@@ -6,7 +6,7 @@ package com.izaanschool.ifelse;
 
        // Declare Main Method
     
-       s
+//       s
         // Declaring variables and initializing it with a value
         
 

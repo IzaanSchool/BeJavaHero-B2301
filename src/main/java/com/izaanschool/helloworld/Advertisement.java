@@ -4,9 +4,9 @@ package com.izaanschool.helloworld;// Advertisement - A class representing an ad
 
 
     // Main Method
-    public static void main(String[] args) {
-        // Print any two statements
-        
-
-    }
+//    public static void main(String[] args) {
+//        // Print any two statements
+//
+//
+//    }
 
